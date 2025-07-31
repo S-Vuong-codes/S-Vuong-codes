@@ -24,7 +24,7 @@ I'm a **Data Scientist & Bioinformatics Specialist** with 8+ years of experience
 - 🌍 Exploring opportunities in open-source collaboration, translational genomics, and health data innovation
 
 ### 📫 Let’s Connect
-[📧 Email](sally_vuong@outlook.com) | [💼 LinkedIn](https://www.linkedin.com/in/sally-vuong/) | [🐦 Twitter](https://x.com/Sally_Vuong)
+[📧 Email](mailto:sally_vuong@outlook.com) | [💼 LinkedIn](https://www.linkedin.com/in/sally-vuong/) | [🐦 Twitter](https://x.com/Sally_Vuong)
 
 ---
 
